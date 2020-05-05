@@ -8,6 +8,8 @@ In the actual project they have used DTMF, that is
 Phone >> DTMF decoder >> motor driver >> motor
 
 
+
+
 | Method | Feasibility | Advantages | Disadvantages |
 |-----------|-------------|------------|---------------|
 |DTMF |easy to implement|Simple circuit and microcontroller is not necessary | It cannot be implemented without a phone. It can be made wireless only by using two phones|
