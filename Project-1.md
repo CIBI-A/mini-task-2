@@ -1,7 +1,7 @@
 ### Robot control
 
 ### Problem statement:
- To control a Robot to move in specific direction.
+ To control a Robot to move in any direction.
 ### Ideation:
 In the actual project they have used DTMF, that is
 
@@ -31,8 +31,8 @@ Push button >> encoder >> RF transmitter >>RF receiver >> decoder >> Microcontro
 Microcontrolled can be removed. Use push buttons as which direction to move. This can also be upgraded to gesture control.
 
 
-[DTMF method](https://www.electronicshub.org/dtmf-mobile-controlled-robot-without-microcontroller/)
-[IR method](https://www.electronicsforu.com/electronics-projects/hardware-diy/arduino-based-rf-controlled-robot)
+[DTMF method](https://www.electronicshub.org/dtmf-mobile-controlled-robot-without-microcontroller/),
+[IR method](https://www.electronicsforu.com/electronics-projects/hardware-diy/arduino-based-rf-controlled-robot),
 [RF method](https://www.instructables.com/id/ARDUINO-based-IR-remote-control-robot/)
 
 [IR vs RF](https://www.bronsondesign.com/blog/ir-vs-rf-remote-control/)
