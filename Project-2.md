@@ -5,4 +5,9 @@ Use two rotary encoders to draw whatever picture in 64 x 64 RGB LED Matrix Panel
 
 ### Ideation:
 
-Rotary encoder >> Arduino >> 
+Rotary encoder >> Arduino >>  RPi >> RGB Matrix HAT >> 64 x 64 RGB LED Matrix Panel
+
+DOF sensor is used to erase random 5 pixels and a push button is used to erase totally.
+
+M
+
